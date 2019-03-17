@@ -1,4 +1,4 @@
-# Manage EFI Partition on Windows
+# Mounting & Unmounting EFI Partition on Windows
 
 ## Automatic Method
 ### [Download](https://raw.githubusercontent.com/bhupendpatil/Fun/raw/RAW/MountUmountEFI.zip)
