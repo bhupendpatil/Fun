@@ -4,7 +4,8 @@ rem remember to edit this file if EFI partition is not 1
 rem you can change letter to anything you want too..
 
 @echo off
-echo Keep assigning.txt in C:\
+echo will run assigning.txt now
+set pwd=%cd%\assigning.txt
 pause
 
-diskpart /s C:\assigning.txt
+diskpart /s %pwd%
