@@ -1,9 +1,10 @@
 # Manage EFI Partition on Windows
 
-## [Download](https://raw.githubusercontent.com/bhupendpatil/Fun/raw/RAW/MountUmountEFI.zip)
+## Automatic Method
+### [Download](https://raw.githubusercontent.com/bhupendpatil/Fun/raw/RAW/MountUmountEFI.zip)
 
-
-## Accessing
+## Manual Method
+### Accessing
 * Open CMD with Admin rights
 * ``` diskpart ```
 * ``` list disk ```
@@ -13,8 +14,7 @@
 * ``` assign letter=y ``` you can use any letter
 * ``` exit ```
 
-
-## Removing
+### Removing
 * Open CMD with Admin rights
 * ``` diskpart ```
 * ``` list disk ```
