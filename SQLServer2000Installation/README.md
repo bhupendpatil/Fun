@@ -1,4 +1,4 @@
-# Installation Guide for Sql Server 2000 On Windows 10
+# Installation Guide for SQL Server 2000 On Windows 10
 (This method may work for older versions of Windows too)
 ___
 ## Download :
