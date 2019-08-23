@@ -11,3 +11,4 @@ Redirect input from bash to ruby | [project](https://github.com/bhupendpatil/Fun
 Know Geo Loaction who visits you | [project](https://github.com/bhupendpatil/Fun/tree/master/GeoLoaction)
 Mount and Unmount EFI partition on Windows | [project](https://github.com/bhupendpatil/Fun/tree/master/MountUmountEFI)
 SQLServer2000 Installation guide | [guide](https://github.com/bhupendpatil/Fun/tree/master/SQLServer2000Installation)
+Hadoop Installation guide | [guide](https://github.com/bhupendpatil/Fun/tree/master/HadoopInstallation)
