@@ -2,7 +2,7 @@
 (This method may work for older versions of Windows too)
 ___
 ## Download :
-* **Java** : [Oracle](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [HasselFree]()
+* **Java** : [Oracle](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [HasselFree](https://adoptopenjdk.net/)
 * **7-zip** : [7-zip](https://www.7-zip.org/)
 * **Hadoop** : [hadoop](https://hadoop.apache.org/releases.html)
 * **Spark** : [spark](https://spark.apache.org/downloads.html)
