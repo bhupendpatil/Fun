@@ -25,5 +25,33 @@ ___
   * you've copied the main files now
 
 * **Step 2** :
-  * In this step we're going to set Environment Variables
+
+   In this step we're going to set Environment Variables
+   
+  * Goto `Control Panel > System and Security > System > Advanced System Settings > Environment Variables...`
+  * let us add system variables first
+    * `JAVA_HOME` -> `C:\Java\jdk1.8.0_221`
+    * `HADOOP_HOME` -> `C:\Hadoop\hadoop-3.1.2`
+    * `SPARK_HOME` -> `C:\Spark\spark-2.4.3-bin-hadoop2.7`
+    
+   should look like this 
+   
+   ![variables1](https://user-images.githubusercontent.com/9783913/63622806-6d303700-c615-11e9-8c3a-e14e1efc7298.PNG)
+  * let us now add path
+    * `%JAVA_HOME%\bin`
+    * `%HADOOP_HOME%\bin`
+    * `%HADOOP_HOME%\sbin`
+    * `%SPARK_HOME%\bin`
+     
+   should look like this 
+   
+   ![path1](https://user-images.githubusercontent.com/9783913/63622948-d9ab3600-c615-11e9-9de8-e883f3496a94.PNG)
+  * let us now see if things are well
+    * open cmd and enter these commands `java -version` , `hdfs -version` and `spark-shell --version`
+     
+   should look like this 
+   
+   ![cmd1](https://user-images.githubusercontent.com/9783913/63623332-eed49480-c616-11e9-9d57-6e4eed87771a.PNG)
   
+* **Step 3** :
+  * 
