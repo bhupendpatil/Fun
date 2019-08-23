@@ -1,0 +1,19 @@
+# Installation Guide for Hadoop & Spark On Windows 10
+(This method may work for older versions of Windows too)
+___
+## Download :
+* **Java** : [Oracle](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [HasselFree]()
+* **7-zip** : [7-zip](https://www.7-zip.org/)
+* **Hadoop** : [hadoop](https://hadoop.apache.org/releases.html)
+* **Spark** : [spark](https://spark.apache.org/downloads.html)
+* **winutils** : [cdarlint/winutils](https://github.com/cdarlint/winutils/archive/master.zip)
+
+## Files Required :
+* **jdk-8u221-windows-x64.exe** (if you have java 8 skip this step)
+* **hadoop-3.1.2.tar.gz** (which is the current latest stable version for hadoop)
+* **spark-2.4.3-bin-hadoop2.7.tgz** (which is the current latest stable version for spark)
+* **winutils-master.zip** (contain binary files for windows)
+___
+## Guide
+* **Step 1** :
+  * 
