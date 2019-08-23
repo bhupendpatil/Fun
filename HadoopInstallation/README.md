@@ -16,4 +16,14 @@ ___
 ___
 ## Guide
 * **Step 1** :
-  * 
+  * Double click _jdk-8u221-windows-x64.exe_
+  * Change the destination folder to location `C:\Java` and install it
+  * install 7-zip (skip if you already have 7-zip)
+  * Goto `C:\` and create 2 folders named `Hadoop` and `Spark`
+  * using 7-zip extract _hadoop-3.1.2.tar.gz_ you'll get folder named _hadoop-3.1.2.tar_ open it and again extract _hadoop-3.1.2.tar_ using 7-zip, after extracting you'll get _hadoop-3.1.2_ named folder copy that folder in `C:\Hadoop`
+  * using 7-zip extract _spark-2.4.3-bin-hadoop2.7.tgz_ you'll get folder named _spark-2.4.3-bin-hadoop2.7_ copy that folder in `C:\Spark`
+  * you've copied the main files now
+
+* **Step 2** :
+  * In this step we're going to set Environment Variables
+  
