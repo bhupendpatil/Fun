@@ -2,7 +2,7 @@
 (This method may work for older versions of Windows too)
 ___
 ## Download :
-* **Java** : [Oracle](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [HasselFree](https://adoptopenjdk.net/)
+* **Java 8 x64** : [Oracle](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [HasselFree](https://adoptopenjdk.net/) [GDrive](https://drive.google.com/open?id=1fwl4qr5AuJZJUn_ccQxsr1Z-bIXcsIVG)
 * **7-zip** : [7-zip](https://www.7-zip.org/)
 * **Hadoop** : [hadoop](https://hadoop.apache.org/releases.html)
 * **Spark** : [spark](https://spark.apache.org/downloads.html)
