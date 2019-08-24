@@ -4,8 +4,8 @@ ___
 ## Download :
 * **Java 8 x64** : [Oracle](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [HasselFree](https://adoptopenjdk.net/) [GDrive](https://drive.google.com/open?id=1fwl4qr5AuJZJUn_ccQxsr1Z-bIXcsIVG)
 * **7-zip** : [7-zip](https://www.7-zip.org/)
-* **Hadoop** : [hadoop](https://hadoop.apache.org/releases.html)
-* **Spark** : [spark](https://spark.apache.org/downloads.html)
+* **Hadoop** : [hadoop](https://hadoop.apache.org/releases.html) [hadoop-3.1.2.tar.gz](https://www.apache.org/dist/hadoop/common/hadoop-3.1.2/hadoop-3.1.2.tar.gz)
+* **Spark** : [spark](https://spark.apache.org/downloads.html) [spark-2.4.3-bin-hadoop2.7.tgz](https://www.apache.org/dist/spark/spark-2.4.3/spark-2.4.3-bin-hadoop2.7.tgz)
 * **winutils** : [cdarlint/winutils](https://github.com/cdarlint/winutils/archive/master.zip)
 
 ## Files Required :
