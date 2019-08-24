@@ -23,6 +23,10 @@ ___
   * using 7-zip extract _hadoop-3.1.2.tar.gz_ you'll get folder named _hadoop-3.1.2.tar_ open it and again extract _hadoop-3.1.2.tar_ using 7-zip, after extracting you'll get _hadoop-3.1.2_ named folder copy that folder in `C:\Hadoop` ; ignore errors all is really well
   * using 7-zip extract _spark-2.4.3-bin-hadoop2.7.tgz_ you'll get folder named _spark-2.4.3-bin-hadoop2.7_ copy that folder in `C:\Spark`
   * you've copied the main files now
+    
+   should look like this 
+   
+   ![prog1](https://user-images.githubusercontent.com/9783913/63634634-ced4bd80-c676-11e9-9cfd-24c239f39eca.PNG)
 
 * **Step 2** :
 
