@@ -144,7 +144,7 @@ ___
    
    ![cmdd1](https://user-images.githubusercontent.com/9783913/63625375-0e6ebb80-c61d-11e9-9308-1d221c9fa04f.PNG)
 
-  * Now copy `hadoop-yarn-server-timelineservice-3.0.3` from `C:\Hadoop\hadoop-3.1.1\share\hadoop\yarn\timelineservice` to `C:\Hadoop\hadoop-3.1.1\share\hadoop\yarn`
+  * Now copy `hadoop-yarn-server-timelineservice-3.1.2` from `C:\Hadoop\hadoop-3.1.2\share\hadoop\yarn\timelineservice` to `C:\Hadoop\hadoop-3.1.2\share\hadoop\yarn`
 
 * **Step 5** :
 
