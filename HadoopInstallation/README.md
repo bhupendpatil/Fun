@@ -39,9 +39,9 @@ ___
     * `HADOOP_HOME` -> `C:\Hadoop\hadoop-3.2.0`
     * `SPARK_HOME` -> `C:\Spark\spark-2.4.4-bin-hadoop2.6`
 
-   should look like this (screenshot may look bit diff)
+   should look like this
 
-   ![variables1](https://user-images.githubusercontent.com/9783913/63622806-6d303700-c615-11e9-8c3a-e14e1efc7298.PNG)
+   ![variables1](https://user-images.githubusercontent.com/9783913/64818871-9ae01e80-d5ca-11e9-8cf9-18d421a1330e.PNG)
   * let us now add path
     * `%JAVA_HOME%\bin`
     * `%HADOOP_HOME%\bin`
@@ -54,9 +54,9 @@ ___
   * let us now see if things are well
     * open cmd and enter these commands `java -version` , `hdfs -version` and `spark-shell --version`
 
-   should look like this (screenshot may look bit diff)
+   should look like this
 
-   ![cmd1](https://user-images.githubusercontent.com/9783913/63623332-eed49480-c616-11e9-9d57-6e4eed87771a.PNG)
+   ![cmd1](https://user-images.githubusercontent.com/9783913/64819041-fa3e2e80-d5ca-11e9-8846-376247b07e28.PNG)
 
 * **Step 3** :
 
@@ -130,13 +130,14 @@ ___
 
   * Extract _winutils-master.zip_ using 7-zip and open it
   * Find `hadoop-3.2.0` and open it
-  * copy the bin folder
-  * goto `C:\Hadoop\hadoop-3.2.0` and rename the existing `bin` folder to `bin.old` (you can delete bin folder if you want to)
-  * paste the bin folder you had copied earlier
+  * open `bin` folder
+  * copy the all content inside bin folder
+  * goto `C:\Hadoop\hadoop-3.2.0\bin`
+  * paste all the content in it
 
    should look like this
 
-   ![fold1](https://user-images.githubusercontent.com/9783913/63625155-5fca7b00-c61c-11e9-9fc6-209e3b9e3253.PNG)
+   ![fold1](https://user-images.githubusercontent.com/9783913/64818653-1db4a980-d5ca-11e9-8ce3-a3c71cc2bd09.PNG)
 
   * open cmd and run this command `hdfs namenode -format`
 
@@ -144,7 +145,7 @@ ___
 
    ![cmdd1](https://user-images.githubusercontent.com/9783913/63625375-0e6ebb80-c61d-11e9-9308-1d221c9fa04f.PNG)
 
-  * Now copy `hadoop-yarn-server-timelineservice-3.1.2` from `C:\Hadoop\hadoop-3.2.0\share\hadoop\yarn\timelineservice` to `C:\Hadoop\hadoop-3.2.0\share\hadoop\yarn`
+  * Now copy `hadoop-yarn-server-timelineservice-3.2.0` from `C:\Hadoop\hadoop-3.2.0\share\hadoop\yarn\timelineservice` to `C:\Hadoop\hadoop-3.2.0\share\hadoop\yarn`
 
 * **Step 5** :
 
