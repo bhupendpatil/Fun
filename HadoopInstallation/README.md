@@ -4,13 +4,13 @@ ___
 ## Download :
 * **Java 8 x64** : [Oracle](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [HasselFree](https://adoptopenjdk.net/) [**GDrive**](https://drive.google.com/open?id=1fwl4qr5AuJZJUn_ccQxsr1Z-bIXcsIVG)
 * **7-zip** : [**7-zip**](https://www.7-zip.org/)
-* **Hadoop** : [hadoop](https://hadoop.apache.org/releases.html) [**hadoop-3.2.0.tar.gz**](https://www.apache.org/dist/hadoop/common/hadoop-3.2.0/hadoop-3.2.0.tar.gz)
+* **Hadoop** : [hadoop](https://hadoop.apache.org/releases.html) [**hadoop-3.2.0.tar.gz**](https://archive.apache.org/dist/hadoop/common/hadoop-3.2.0/hadoop-3.2.0.tar.gz)
 * **Spark** : [spark](https://spark.apache.org/downloads.html) [**spark-2.4.4-bin-hadoop2.6.tgz**](https://www.apache.org/dist/spark/spark-2.4.4/spark-2.4.4-bin-hadoop2.6.tgz)
 * **winutils** : [**cdarlint/winutils**](https://github.com/cdarlint/winutils/archive/master.zip)
 
 ## Files Required :
 * **jdk-8u221-windows-x64.exe** (if you have java 8 skip this step)
-* **hadoop-3.2.0.tar.gz** (which is the current latest stable version for hadoop)
+* **hadoop-3.2.0.tar.gz**
 * **spark-2.4.4-bin-hadoop2.6.tgz** (which is the current latest stable version for spark)
 * **winutils-master.zip** (contain binary files for windows / patch file)
 ___
