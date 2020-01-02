@@ -9,7 +9,7 @@ ___
 * **winutils** : [**cdarlint/winutils**](https://github.com/cdarlint/winutils/archive/master.zip)
 
 ## Files Required :
-* **jdk-8u221-windows-x64.exe** (if you have java 8 skip this step)
+* **jdk-8u221-windows-x64.exe** (if you have java 8 in you C:/ not in C:/Program Files skip this step)
 * **hadoop-3.2.0.tar.gz**
 * **spark-2.4.4-bin-hadoop2.6.tgz** (which is the current latest stable version for spark)
 * **winutils-master.zip** (contain binary files for windows / patch file)
