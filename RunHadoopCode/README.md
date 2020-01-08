@@ -82,7 +82,18 @@ ___
   ![p5](https://user-images.githubusercontent.com/9783913/69484805-91422500-0e5d-11ea-810d-fb904df9121b.PNG)
   ![p6](https://user-images.githubusercontent.com/9783913/69484825-bcc50f80-0e5d-11ea-8c15-b26218732343.PNG)
 
-* Step 7:
+* Step 6:
+  
+  lets check our output folder now
+  * Type `hadoop fs -ls /Charcount/output/`
+  * you will get a look about what content is present in the /Charcount/output folder
+  * Type `hadoop fs -cat /Charcount/output/part-r-00000` (the file name may differ)
+  * thats your output
+
+  should look like this
+  ![Capture](https://user-images.githubusercontent.com/9783913/72004136-cb7e4f00-3270-11ea-8177-39c30c856249.PNG)
+
+* Step 7:(Optional Step/GUI version)
 
   lets check our output now
   * visit `http://localhost:9870/`
