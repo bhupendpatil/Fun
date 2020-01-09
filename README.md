@@ -12,4 +12,4 @@ Know Geo Location who visits you | [project](https://github.com/bhupendpatil/Fun
 Mount and Unmount EFI partition on Windows | [project](https://github.com/bhupendpatil/Fun/tree/master/MountUmountEFI)
 SQLServer2000 Installation guide | [guide](https://github.com/bhupendpatil/Fun/tree/master/SQLServer2000Installation)
 Hadoop Installation guide | [guide](https://github.com/bhupendpatil/Fun/tree/master/HadoopInstallation)
-Running Hadoop Code Guide | [guide](https://github.com/bhupendpatil/Fun/edit/master/RunHadoopCode/README.md)
+Running Hadoop Code Guide | [guide](https://github.com/bhupendpatil/Fun/tree/master/RunHadoopCode)
